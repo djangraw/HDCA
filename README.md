@@ -11,4 +11,4 @@ David C Jangraw et al. (2014) "Neurally and ocularly informed graph-based models
 
 ====
 
-To get started with this code, download the EEGLAB software at [http://sccn.ucsd.edu/eeglab/install.html](http://sccn.ucsd.edu/eeglab/install.html) and the logistic regression plugin at [http://liinc.bme.columbia.edu/downloads/lr1.2_plugin.tar.gz](http://liinc.bme.columbia.edu/downloads/lr1.2_plugin.tar.gz) . The code in this repository makes use of functions from these packages.
+To get started with this code, download the EEGLAB software at [https://sccn.ucsd.edu/eeglab/download.php](https://sccn.ucsd.edu/eeglab/download.php) and the logistic regression plugin at [https://liinc.bme.columbia.edu/wp-content/uploads/lr1.2_plugin.tar.gz](https://liinc.bme.columbia.edu/wp-content/uploads/lr1.2_plugin.tar.gz) . The code in this repository makes use of functions from these packages.
